@@ -1,8 +1,8 @@
 # phase-space
-Just small project with fluid based approche to visualize phase space of system of ordinary differential equation.
+Just small project with fluid based approach to visualize phase space of system of ordinary differential equations.
 
 # Usage:
-Download [Processing](https://processing.org/download) and open folder with that file. You may use many comented examples to understand how to use it.
+Download [Processing](https://processing.org/download) and open folder with that file. **Imporant note!** A folder must have the same name as a file from that repo as it is required by Processing. You may use many comented examples to understand how to use it.
 
 For example, to visualize equation:
 ```
